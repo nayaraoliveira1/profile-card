@@ -10,4 +10,4 @@ Para ser aprimorado as habilidades de posicionamento de elementos usando flexbox
 <br>
 
 
-## [página pronta] 
+## 🔗 [página pronta] (https://github.com/nayaraoliveira1/profile-card).
